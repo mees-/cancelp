@@ -1,0 +1,9 @@
+{
+  "name": "cancelp",
+  "version": "0.1.0",
+  "description": "A cancelable promise",
+  "main": "index.js",
+  "repository": "mees-/cancelp",
+  "author": "Mees van Dijk <mees@itisme.es>",
+  "license": "MIT"
+}
