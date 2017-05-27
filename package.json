@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "mees-/cancelp",
   "author": "Mees van Dijk <mees@itisme.es>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "prepublishOnly": "npm test",
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
 }
