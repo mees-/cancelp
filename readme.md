@@ -1,5 +1,5 @@
 # cancelp
-| a cancelable promise
+> a cancelable promise
 
 
 ### usage
